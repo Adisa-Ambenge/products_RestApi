@@ -1,0 +1,156 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.narbar{
+   height: 100px; 
+   padding-left: 20%;
+   font-size: 15px;
+   color: aliceblue;
+}
+
+
+#vab{
+    color: aliceblue;
+   
+  
+}
+.testimony{
+    text-align: center;
+}
+.paragraph{
+    margin-top: 5%;
+}
+.headings{
+    padding-top: 5%;
+    padding-left: 2%;
+    color: aliceblue;
+}
+.landpage{
+    background-image: linear-gradient(rgb(33, 77, 189), rgb(191, 105, 201));
+}
+.phone{
+    margin-left: 10%;
+}
+ion-icon{
+    margin-top: 50%;
+    margin-bottom: 10%;
+    text-align: center;
+
+}
+.deal{
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+    
+    
+}
+.offer{
+    font-weight: lighter;
+    font-size: 25px;
+}
+.min{
+    background-color: black;
+    color: yellow;
+}
+
+.device{
+    margin-top: 5%;
+  justify-content: space-around;
+  margin-left: 5%;
+  
+   
+}
+#product{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+ 
+    margin-left: 10%;
+
+}
+#product img{
+height: 250px;
+width: 250px;
+margin-top: 10%;
+border-radius: 20px;
+}
+#product h2{
+    font-size: 20px;
+    text-align: center;
+}
+#ad{
+    color: yellow;
+    
+}
+#brand{
+    color: aliceblue;
+    font-size: 30px;
+}
+.game{
+    background-image: linear-gradient(rgb(33, 77, 189), rgb(158, 17, 174));
+    margin-top: 10%;
+    margin-bottom:5% ;
+
+  
+    
+}
+.next{
+    padding-top: 5%;
+    padding-left: 5%;
+    color: aliceblue;
+
+}
+.off{
+    color: yellow;
+}
+.images img{
+    margin-bottom: 10%;
+    height: 350px;
+    background-color: rgb(221, 221, 217);
+    border-radius: 20px;
+
+}
+#Quotes{
+    width: 10%;
+    height: 10%;
+    position: relative;
+    left: 500px;
+    bottom: 405px;
+}
+
+ .btnProduct{
+    background-color: yellow;
+    padding: 10px;
+    border: none;
+    float: right;
+    margin-right: 15%;
+ }
+.end{
+    background-color: rgb(35, 33, 33);
+    color: aliceblue;
+    padding-top: 5%;
+}
+#email{
+    color:yellow;
+}
+.footer{
+    margin-left: 3%;
+    font-size: 12px;
+   
+}
+
+.footer ul{
+
+list-style: none;   
+}
+
+.footer h2{
+    font-weight: bold;
+}
+
